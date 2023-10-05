@@ -1,0 +1,9 @@
+/*
+123.123.4567 "#$%&&/(Q@)12324eggkjdsge
+gfjsvusdv7w3r7273yrsdfis
+1231231
+isa
+sdka
+*/if
+//comentario de una linea
+/*comentarioo de multilinea en una linea*/
